@@ -14,8 +14,8 @@
 volume = "I love you grandma!".uppercase
 
 def speak_to_grandma
-  if volume == "I love you grandma!".uppercase
-    puts "I love you too pumpkin!".uppercase
+  if volume == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
     eslif volume == "low"
     puts "HUH?! SPEAK UP, SONNY!"
   else
