@@ -11,3 +11,13 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+yell = "I love you grandma!".uppercase
+
+def speak_to_grandma
+  if yell == "I love you grandma!".uppercase
+    puts "I love you too pumpkin!".uppercase
+    eslif yell == "speak"
+    puts "Huh?! Speak up, Sonny!".uppercase
+  else
+    puts "No, not since 1938!".uppercase
+end
