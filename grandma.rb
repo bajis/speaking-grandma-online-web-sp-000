@@ -17,7 +17,7 @@ def speak_to_grandma
   if volume == "I love you grandma!".uppercase
     puts "I love you too pumpkin!".uppercase
     eslif volume == "low"
-    puts "Huh?! Speak up, Sonny!".uppercase
+    puts "HUH?! SPEAK UP, SONNY!"
   else
-    puts "No, not since 1938!".uppercase
+    puts "NO, NOT SINCE 1938!"
 end
